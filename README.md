@@ -1,3 +1,5 @@
+转自https://github.com/yuyicai/update-kube-cert.git，放到此处只是为了留个备份
+
 English | [简体中文](README-zh_CN.md)
 
 **This script can renew kubernetes cluster certificates that have expired or are about to expire**.
